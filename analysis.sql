@@ -10,7 +10,7 @@ SELECT COUNT(customer_id) AS customer_count,
 	   SUM(income) AS avg_income
 FROM Customer
 
--- 2. Show information about VIP customers?
+-- 2. Show information about VIP customers? 
 SELECT *
 FROM Customer
 WHERE customer_type = 'VIP'
