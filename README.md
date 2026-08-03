@@ -10,7 +10,7 @@ The project includes the analysis of example bank data with **SQL**.  The data c
 
 The dataset was prepared especially for this project and contains sample data about bank customers and transactions. It includes two tables named **Customer** and **Transactions**.
 
-### Table descriptions:
+### Table descriptions:  
 
 #### Customer:
 - **customer_id**: customer identifier (**unique**)
@@ -38,7 +38,7 @@ The dataset was prepared especially for this project and contains sample data ab
 9. How is the previous income of client?
 10. What are incoming transactions from 2015 and outgoing transactions from 2016?
 
-### SQL skills used in this project:
+### SQL skills used in this project:  
 
 - creating tables and insert data,
 - grouping, 
