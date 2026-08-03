@@ -37,3 +37,13 @@ The dataset was prepared especially for this project and contains sample data ab
 8. What is each customer's share of the total transaction amount?
 9. How is the previous income of client?
 10. What are incoming transactions from 2015 and outgoing transactions from 2016?
+
+### SQL skills used in this project:
+
+- creating tables and insert data,
+- grouping, 
+- JOINS,
+- aggregate functions,
+- subqueries,
+- window functions etc.
+
