@@ -10,7 +10,7 @@ The project includes the analysis of example bank data with **SQL**.  The data c
 
 The dataset was prepared especially for this project and contains sample data about bank customers and transactions. It includes two tables named **Customer** and **Transactions**.
 
-### Table descriptions:  
+#### Table descriptions:  
 
 #### Customer:
 - **customer_id**: customer identifier (**unique**)
@@ -47,8 +47,8 @@ The dataset was prepared especially for this project and contains sample data ab
 - subqueries,
 - window functions etc.
 
-### Project includes:
+## Project includes:
 
--	script for creating database - create_tables.sql
--	insert data script - insert_data.sql
--	bank data analysis -analysis.sql
+-	script for creating database - **create_tables.sql**
+-	insert data script - **insert_data.sql**
+-	script for bank data analysis -**analysis.sql**
