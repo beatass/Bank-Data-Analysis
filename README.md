@@ -52,3 +52,12 @@ The dataset was prepared especially for this project and contains sample data ab
 -	script for creating database - **create_tables.sql**
 -	insert data script - **insert_data.sql**
 -	script for bank data analysis -**analysis.sql**
+
+## Technologies
+
+The project was created with:
+
+-	SQL (T-SQL),
+-	Microsoft SQL Server (SQL Server Management Studio).
+
+
