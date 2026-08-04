@@ -47,3 +47,8 @@ The dataset was prepared especially for this project and contains sample data ab
 - subqueries,
 - window functions etc.
 
+### Project includes:
+
+-	script for creating database - create_tables.sql
+-	insert data script - insert_data.sql
+-	bank data analysis -analysis.sql
