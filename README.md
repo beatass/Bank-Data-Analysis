@@ -2,13 +2,13 @@
 
 Project refers to analysis of bank data **i.e. customers and transactions** with **MS SQL Server** database.
 
-## General info
+## Relevant information
 
 The project includes the analysis of example bank data with **SQL**.  The data contains information about **Customers** and **Transactions**. The analysis was prepared with, previously mentioned, **MS SQL Server** database.
 
-### Dataset
+### Dataset origin
 
-The dataset was prepared especially for this project and contains sample data about bank customers and transactions. It includes two tables named **Customer** and **Transactions**.
+The dataset was prepared/created especially for this project and contains sample data about bank customers and transactions. It includes two tables named **Customer** and **Transactions**.
 
 #### Table descriptions:  
 
@@ -47,13 +47,13 @@ The dataset was prepared especially for this project and contains sample data ab
 - subqueries,
 - window functions etc.
 
-## Project includes:
+## Files in this repository include:
 
 -	script for creating database - **create_tables.sql**
 -	script for insert data - **insert_data.sql**
 -	script for bank data analysis -**analysis.sql**
 
-## Technologies
+## Technologies:
 
 The project was created with:
 
