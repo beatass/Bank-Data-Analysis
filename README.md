@@ -4,7 +4,7 @@ Project refers to analysis of bank data **i.e. customers and transactions** with
 
 ## General info
 
-The project includes the analysis of example bank data with **SQL**.  The data contains information about **Customers** and **Transactions**. The analysis was prepared with **MS SQL Server** database.
+The project includes the analysis of example bank data with **SQL**.  The data contains information about **Customers** and **Transactions**. The analysis was prepared with, previously mentioned, **MS SQL Server** database.
 
 ### Dataset
 
@@ -50,7 +50,7 @@ The dataset was prepared especially for this project and contains sample data ab
 ## Project includes:
 
 -	script for creating database - **create_tables.sql**
--	insert data script - **insert_data.sql**
+-	script for insert data - **insert_data.sql**
 -	script for bank data analysis -**analysis.sql**
 
 ## Technologies
