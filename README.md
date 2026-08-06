@@ -28,15 +28,15 @@ The dataset was prepared/created especially for this project and contains sample
 ## Data Insights
 
 1. What is the number of customers, average age of customers, total income?
-2. How information about VIP customers?
+2. How information about **VIP** customers?
 3. What is the customer type and sum of income for given type? 
-4. What is the sum of incoming VIP customer transactions, broken down by transaction year?
+4. What is the sum of incoming **VIP** customer transactions, broken down by transaction year?
 5. What is the average income of a customer in their segment?
 6. What is the customer rank of their income among all customers?
 7. What is the total number of transactions in a given year and month along with a summary for that year?   
 8. What is each customer's share of the total transaction amount?
 9. How is the previous income of client?
-10. What are incoming transactions from 2015 and outgoing transactions from 2016?
+10. What are incoming transactions from **2015** and outgoing transactions from **2016**?
 
 ### SQL skills used in this project:  
 
