@@ -57,7 +57,7 @@ The dataset was prepared/created especially for this project and contains sample
 
 The project was created with:
 
--	SQL (T-SQL),
--	Microsoft SQL Server (SQL Server Management Studio).
+-	SQL (**T-SQL**),
+-	Microsoft SQL Server (**SQL Server Management Studio**).
 
 
